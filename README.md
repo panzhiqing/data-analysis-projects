@@ -6,18 +6,21 @@ This repository contains selected data analysis projects implemented using SQL, 
 
 ### 1. Predicting Next-Day Total Sales
 - Objective: Predict next-day total sales using historical transaction data.
-- Techniques: baseline, LinearRegression, Random Forest, MAE evaluation.
-- Tools: Pandas, Matplotlib.
+- Techniques: Baseline modeling, LinearRegression, Random Forest, MAE evaluation.
+- Tools: Python (Pandas, Matplotlib).
+[Kaggle](https://www.kaggle.com/code/zissssssi/predicting-next-day-total-sales)
 
 ### 2. Telco Customer Churn Analysis
 - Objective: Identify key drivers of customer churn.
 - Techniques: Logistic Regression, Random Forest, ROC–AUC evaluation.
-- Tools: Pandas, Seaborn, Matplotlib, SQL-style aggregations.
+- Tools: Python (Pandas, Seaborn, Matplotlib), SQL-style aggregations.
+[Kaggle](https://www.kaggle.com/code/zissssssi/telco-customer-churn-analysis)
 
 ### 3. Application-Stage Credit Decision Modeling
 - Objective: Assess default risk at the loan application stage using borrower demographics, financial capacity indicators, and external credit bureau signals.
 - Techniques: Logistic Regression, ROC–AUC evaluation, decision threshold analysis under false positive rate constraints.
-- Tools: Pandas, Matplotlib.
+- Tools: Python (Pandas, Matplotlib).
+[Kaggle](https://www.kaggle.com/code/zissssssi/application-stage-credit-decision)
 
 
 These projects are designed as portfolio examples for entry-level data analyst roles.
