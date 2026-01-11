@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-This repository contains selected data analysis projects implemented using SQL, Python and machine learning techniques.
+This repository contains selected data analysis projects implemented using SQL, python and machine learning techniques.
 
 ## Projects
 
