@@ -24,4 +24,4 @@ This repository contains selected data analysis projects implemented using SQL, 
 
 These projects are designed as portfolio examples for entry-level data analyst roles.
 Note: GitHub may not fully render large notebooks. If preview fails, please download the notebook or view it on Kaggle by
-click the link.
+clicking the link.
